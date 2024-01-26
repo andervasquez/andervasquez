@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andervasquez
-- 👀 I’m interested in web and application development!
-- 🌱 I’m currently learning programming in C++ in pursuit of a computer science degree.
-- 💞️ I’m looking to collaborate on any projects that will provide good development experience for someone new. 
+- 👀 I’m interested in web and application development! I have been programming for 4 years now.
+- 🌱 Graduating from A&M Corpus Christi in December 2024 (BS Computer Science with a concentration in Cybersecurity).
+- 💞️ I’m looking to collaborate on any projects that will provide good development experience at an intermediate level. 
 - 📫 How to reach me: Email andervasquez.13@gmail.com
 
 <!---
