@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andervasquez
+- 👋 Hi, I’m Alex Vasquez!
 - 👀 I’m interested in web and application development! I have been programming for 4 years now.
 - 🌱 Graduating from A&M Corpus Christi in December 2024 (BS Computer Science with a concentration in Cybersecurity).
 - 💞️ I’m looking to collaborate on any projects that will provide good development experience at an intermediate level. 
